@@ -1,0 +1,27 @@
+Package: smb-conf-editor
+Version: 1.1.0
+Architecture: all
+Maintainer: Developer <dev@example.com>
+Installed-Size: 1144
+Depends: python3 (>= 3.8), python3-tk, polkitd, pkexec
+Filename: ./smb-conf-editor_1.1.0_all.deb
+Size: 340468
+MD5sum: 17224837834b1f8bc7c8ee4f2fe5f354
+SHA1: 375e9a05acdd89fe353aecf20aec55a0cd84c504
+SHA256: 0080d246b01a94c5fcba2d0df0a4ff08ccd579cf9fb56e1398f489e164436a20
+Section: utils
+Priority: optional
+Homepage: https://github.com/smb-conf-editor
+Description: Samba設定エディター - GUIでsmb.confを編集
+ Ubuntu向けのSamba設定ファイル（/etc/samba/smb.conf）を
+ GUIで編集するPythonアプリケーションです。
+ .
+ 主な機能:
+  - 共有フォルダの追加・編集・削除
+  - globalセクション（workgroup, hosts allow等）の設定
+  - 外部エディターによるsmb.confの直接編集
+  - Sambaログファイルの閲覧（検索・自動更新機能付き）
+  - 設定変更時の自動バックアップと復元
+  - バックアップと現在の設定の差分表示
+  - Sambaユーザーの登録・解除・有効化・無効化
+

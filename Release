@@ -1,0 +1,21 @@
+Architectures: all
+Date: Fri, 10 Apr 2026 05:06:51 +0000
+Label: g4211 APTリポジトリ
+Origin: g4211
+Suite: stable
+MD5Sum:
+ 076071915ba34ed79d2b2c85d02c2f20             1107 Packages
+ 72a78b728fc0afad6942996dbb0d7bbf              803 Packages.gz
+ 23f66f65d17aa18ae30cab13a7d6c863              117 Release
+SHA1:
+ ba3c82d0c7860417241f4ca494b380b7c1f4eff8             1107 Packages
+ 95fa94e4ba4078d0e0c0e921aea9669900a1a1d2              803 Packages.gz
+ 70bef17ee485940bdffb43e894c278d29d86989b              117 Release
+SHA256:
+ 6555d07cea06ef33d6534c9429719cd8f16b92db5ab736c4662b119d5ae6633c             1107 Packages
+ a8d0ea64105a672368b7a45038966e2711983fb470e64585a1361811d8ce0c3e              803 Packages.gz
+ c056639a055ece0c14663c74b19ff57b7195cad3d83e6d12b4874a5206b0a28a              117 Release
+SHA512:
+ 333bedf16efb7b04030b6b8510ddbe67684ac5bb23e7d71754241819cafaa3d5e1b4fd04de5ca4f268400198cc2f8c7e7d7142eaa977c4fe0d0daa506e34e880             1107 Packages
+ 43e9b49207a021321d35d22869a8647bb37efbc93c83dc6faf3153e07766c2ae57e1f69e7a90660ceacf83c34d03b7a7b193d69d658b8c5043a3ac04196547c9              803 Packages.gz
+ 056dc304952f0947663702352a91cb5ea0fdb885c58f03bfbbfe4e2531f0e68bd969ab56788d1d6b5e08e2d16bce7e7e9d3134dc19394ef8f458bb07f2e27b8e              117 Release
