@@ -1,21 +1,21 @@
 Architectures: all
-Date: Fri, 10 Apr 2026 05:06:51 +0000
-Label: g4211 APTリポジトリ
+Date: Mon, 13 Apr 2026 05:18:15 +0000
+Label: g4211 APT Repository
 Origin: g4211
 Suite: stable
 MD5Sum:
- 076071915ba34ed79d2b2c85d02c2f20             1107 Packages
- 72a78b728fc0afad6942996dbb0d7bbf              803 Packages.gz
- 23f66f65d17aa18ae30cab13a7d6c863              117 Release
+ 58fad228b68ffd5532851f72058b7a80             1106 Packages
+ e2fc084488a0a9bee094617edc53121e              807 Packages.gz
+ 9835f065e7de51c42063046d4dd7d406              113 Release
 SHA1:
- ba3c82d0c7860417241f4ca494b380b7c1f4eff8             1107 Packages
- 95fa94e4ba4078d0e0c0e921aea9669900a1a1d2              803 Packages.gz
- 70bef17ee485940bdffb43e894c278d29d86989b              117 Release
+ b3b758918789c239ae3685722072e9ed9b861100             1106 Packages
+ f363538e27781940eeec270586c263d8971bd123              807 Packages.gz
+ f67816b5ae239d18e3c16a8418a0b3060e1571e8              113 Release
 SHA256:
- 6555d07cea06ef33d6534c9429719cd8f16b92db5ab736c4662b119d5ae6633c             1107 Packages
- a8d0ea64105a672368b7a45038966e2711983fb470e64585a1361811d8ce0c3e              803 Packages.gz
- c056639a055ece0c14663c74b19ff57b7195cad3d83e6d12b4874a5206b0a28a              117 Release
+ f12c7f65ebf04c56a03d42f3edb6193df35a3af807a5067c848acb82ff6217c2             1106 Packages
+ d56e766416a78a7a28a7c8aeb2ac00e21417bc570ac71c54564e16a2897d0c50              807 Packages.gz
+ 61f17e31ff948d21671c48161dafada048d8b519fcdcab3a88889ebbeb1afbb2              113 Release
 SHA512:
- 333bedf16efb7b04030b6b8510ddbe67684ac5bb23e7d71754241819cafaa3d5e1b4fd04de5ca4f268400198cc2f8c7e7d7142eaa977c4fe0d0daa506e34e880             1107 Packages
- 43e9b49207a021321d35d22869a8647bb37efbc93c83dc6faf3153e07766c2ae57e1f69e7a90660ceacf83c34d03b7a7b193d69d658b8c5043a3ac04196547c9              803 Packages.gz
- 056dc304952f0947663702352a91cb5ea0fdb885c58f03bfbbfe4e2531f0e68bd969ab56788d1d6b5e08e2d16bce7e7e9d3134dc19394ef8f458bb07f2e27b8e              117 Release
+ ae2ef5e4e6ea86a33ff9fee2617035107539e3f3e75960e44d52a1e6877e9b6b5da850a6f0bb345a308df795a1b0e54de732df739f382d0496eaa9bf4f011045             1106 Packages
+ 2d52a08ac2778e1f163f245d43cebc300c8a9fe01e5ca1ef4ca0b08a2a1d89f2b78b3a4a217856de108b637df2eb4abe84c3b52a730285cd72ba7bfdf933b6aa              807 Packages.gz
+ 87a36c316a54f4f6523c5ae86c3f9e211aaca6d22b8630a92ee1eec3e174852aedd7cc72af3a9cc37c9be561ecbd38bb77929e07414a24d1e1c5458e90e2e51f              113 Release
