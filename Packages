@@ -5,10 +5,10 @@ Maintainer: Developer <dev@example.com>
 Installed-Size: 1256
 Depends: python3 (>= 3.8), libxcb-cursor0, polkitd, pkexec
 Filename: ./smb-conf-editor_1.0.0_all.deb
-Size: 341084
-MD5sum: c8ce8915866765238a2d9421908b6735
-SHA1: a5ab4690ce8e5443d7c7aae54daa62fa51cbd89f
-SHA256: 3dce7879f7c9ecabecc1bb147e7358a7d6aad0ff9e144145e1cef207e4eefe80
+Size: 341188
+MD5sum: 0bbff8b8cc5db5770240e0a632d0d48c
+SHA1: 950882116b9702a9bb9fa209ac57fc6c1d8d3b74
+SHA256: fd936c0525bac38deb0a655339d0a41fb7d38846288518cf6a0d3d884e313641
 Section: utils
 Priority: optional
 Homepage: https://github.com/smb-conf-editor
